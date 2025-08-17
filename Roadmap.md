@@ -1,6 +1,6 @@
 - [[ООП]]
 - [[RxJs]]
-- [[SSR]]
+- [[SSR variants]]
 - [[Vritual Dom]]
 - [[Reconcilation]]
 - [[ReactKey]]
