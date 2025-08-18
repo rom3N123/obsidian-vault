@@ -7,3 +7,5 @@
 - [[Next]]
 - [[Cypress]]
 - [[Effector]]
+- https://www.youtube.com/watch?v=bnzcSC8AmHY&ab_channel=YandexforFrontend
+- https://www.youtube.com/watch?v=HDajDASxn-w&ab_channel=YandexforFrontend
