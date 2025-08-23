@@ -2,3 +2,12 @@
 - [[SSR variants]]
 - [[Next LEARN TODO]]
 - BDD
+- requestIdleCallback
+- https://www.youtube.com/watch?v=BJatgOiiht4&ab_channel=ForrestKnight
+- Индомпотентый - при вызове множество раз с одними и теми же параметрами мы получаем тот же результат
+- Кеш изображений , кеш [[GET-request]]
+- OPTION-request
+- container-presener
+- каррирование multiply(2)(3)(4)() вызов когда пустой аргумент
+- [[Алгоритмы]]
+- [[SOLID]]
