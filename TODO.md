@@ -8,6 +8,7 @@
 - Кеш изображений , кеш [[GET-request]]
 - OPTION-request
 - container-presener
+- функциональное программирование, fp-ts (https://www.youtube.com/watch?v=Z3PLwD3iebg&list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo&index=1&ab_channel=WebVillageVoyage)
 - каррирование multiply(2)(3)(4)() вызов когда пустой аргумент
 - [[Алгоритмы]]
 - [[SOLID]]
